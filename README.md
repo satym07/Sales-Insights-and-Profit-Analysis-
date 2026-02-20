@@ -3,7 +3,6 @@
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?logo=mysql)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange?logo=tableau)
 ![Data Analysis](https://img.shields.io/badge/Business-Intelligence-success)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
 
 ---
 
