@@ -9,39 +9,94 @@
 
 ---
 
-## Overview
+## 📌 Project Overview
 
-Analysis of 4 years of sales data across 15+ Indian markets to evaluate revenue trends, profit margins, regional performance differences, and sales channel distribution.
+This project analyzes **4 years of sales data across 15+ Indian markets** to uncover revenue trends, profitability drivers, regional performance variations, and sales channel effectiveness.
 
-The project follows a structured analytics workflow:
-SQL-based data exploration → profit analysis → data validation → Tableau visualization → interactive dashboard development.
-
----
-
-## Key Results
-
-- **3.12% overall profit margin**
-- **9.89% profit margin gap** between highest and lowest performing markets
-- **76.65% Brick & Mortar vs 23.35% E-Commerce** sales distribution
-- Identified regional performance imbalance and channel dependency patterns
+Using **SQL for data exploration and analysis** and **Tableau for visualization**, the project transforms raw transactional data into actionable business insights that support data-driven decision-making.
 
 ---
 
-## Technical Implementation
+## 🎯 Business Problem
+
+Organizations generate large volumes of sales data but often struggle to identify:
+
+* Which markets contribute the most revenue and profit
+* Profitability differences across regions
+* Sales channel performance trends
+* Opportunities for business optimization
+
+The objective of this project was to analyze historical sales performance and develop interactive dashboards that provide clear visibility into business performance metrics.
+
+---
+
+## 📂 Dataset Information
+
+* 4 years of transactional sales data
+* 15+ Indian markets
+* Revenue, profit, customer, and product-related attributes
+* Multiple sales channels including Brick & Mortar and E-Commerce
+* Data prepared, validated, and analyzed using SQL prior to visualization
+
+---
+
+## 🛠️ Technical Stack
 
 ### SQL
-- Explored schema and validated columns
-- Performed joins and aggregations
-- Calculated profit and margin metrics
-- Analyzed multi-market performance
-- Structured dataset for visualization
+
+* Data exploration and validation
+* Joins and aggregations
+* Revenue and profit calculations
+* Market-wise performance analysis
+* KPI generation for dashboard reporting
 
 ### Tableau
-- Cleaned and formatted imported dataset
-- Created calculated fields for KPIs
-- Built individual sheets (revenue, margin, regional analysis)
-- Integrated sheets into interactive dashboards
-- Implemented dynamic filters (year/month)
+
+* Data visualization
+* Interactive dashboard development
+* KPI tracking
+* Dynamic filters and drill-down analysis
+* Business performance reporting
 
 ---
 
+## 📈 Key Results
+
+* Achieved an overall **3.12% profit margin**
+* Identified a **9.89% profit margin gap** between the highest and lowest performing markets
+* Revealed a **76.65% Brick & Mortar vs 23.35% E-Commerce** sales distribution
+* Highlighted regional profitability differences and channel dependency trends
+
+---
+
+## 🔍 Key Business Insights
+
+* Revenue generation was concentrated within a small group of high-performing markets.
+* Significant profitability variation existed across regions despite comparable sales volumes.
+* Brick & Mortar channels remained the primary revenue contributor, indicating strong offline market dependence.
+* Certain markets generated high revenue but delivered lower profit margins, presenting optimization opportunities.
+* Sales channel analysis highlighted areas where digital channel expansion could improve overall business performance.
+
+---
+
+## 📊 Dashboard Features
+
+### Sales Insights Dashboard
+
+* Revenue trends over time
+* Market-wise performance comparison
+* Sales channel distribution
+* Interactive filtering by year and month
+
+### Profit Analysis Dashboard
+
+* Profit margin tracking
+* Regional profitability comparison
+* Market-level performance evaluation
+* KPI-driven business insights
+
+---
+
+## 🚀 Project Outcome
+
+This project demonstrates the application of **SQL, data analysis, KPI reporting, and Tableau dashboard development** to solve real-world business problems and support strategic decision-making through data-driven insights.
